@@ -4,7 +4,7 @@ import AboutMission from "../Components/AboutMission";
 import AboutTeam from "../Components/AboutTeam";
 import AboutMilestone from "../Components/AboutMilestone";
 import AboutHero from "../Components/AboutHero";
-import AboutStory from "../Components/Aboutstory";
+import AboutStory from "../Components/AboutStory";
 import AboutStats from "../Components/AboutStats";
 
 const About = () => {
